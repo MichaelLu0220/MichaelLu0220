@@ -1,3 +1,4 @@
+📄 Read this in [English](README.en.md)
 ![Michael's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelLu0220)
 
 # 👋 歡迎來到我的 GitHub！
