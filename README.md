@@ -1,6 +1,6 @@
-<div align="center">
-
-[English](README.md) | [繁體中文](README.zh-TW.md)
+<p align="center">
+  <a href="README.md">English</a> | <a href="README.zh-TW.md">繁體中文</a>
+</p>
 ![Michael's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelLu0220)
 
 # 👋 Welcome to My GitHub!
@@ -23,8 +23,8 @@ I enjoy exploring large language models, data science, and automation solutions.
 
 ## 🏆 Featured Projects
 - **[LLM-Finetuning](https://github.com/MichaelLu0220/yolov5)**  
-  A YOLOv5-based method for identifying the location of colorectal polyps.
-  🛠️ *Tech*: Python, PyTorch, Hugging Face
+  A YOLOv5-based method for identifying the location of colorectal polyps.  
+  🛠️ *Tech*: Python, PyTorch
 
 - **[APP Solutions](https://github.com/MichaelLu0220/English_List)**  
   A small vocabulary training app I developed.  

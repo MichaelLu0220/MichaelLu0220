@@ -1,6 +1,6 @@
-<div align="center">
-
-[English](README.md) | [繁體中文](README.zh-TW.md)
+<p align="center">
+  <a href="README.md">English</a> | <a href="README.zh-TW.md">繁體中文</a>
+</p>
 ![Michael's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelLu0220)
 
 # 👋 歡迎來到我的 GitHub！
@@ -23,7 +23,7 @@
 ## 🏆 精選專案
 - **[LLM-Finetuning](https://github.com/MichaelLu0220/yolov5)**  
   這個研究有關於**大腸息肉**辨識位置之方法，並以yolov5為實現研究的模型。  
-  🛠️ *Tech*: Python, PyTorch, Hugging Face
+  🛠️ *Tech*: Python, PyTorch
 
 - **[APP Solutions](https://github.com/MichaelLu0220/English_List)**  
   我的訓練單字小程式。  
