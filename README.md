@@ -1,41 +1,44 @@
-📄 Read this in [English](README.en.md)
+<div align="center">
+
+[English](README.md) | [繁體中文](README.zh-TW.md)
 ![Michael's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelLu0220)
 
-# 👋 歡迎來到我的 GitHub！
+# 👋 Welcome to My GitHub!
 
-我是 **GuaGua** aka Michael Lu，一個熱衷於 **機器學習**、**MLOps** 和 **程式設計** 的學習者。我喜歡探索大型語言模型、資料科學和自動化解決方案，同時也熱衷於挑戰生活中每個困難的時刻。
-
----
-
-## 🔍 關於我
-- 🎓 專注於機器學習、資料科學和 MLOps
-- 🛠️ 擅長工具：Python, PyTorch, MLflow, SQL
-- 🌟 目前正在：
-  - 微調大型語言模型 (LLM)
-  - 研究 Text-to-SQL 應用
-  - 優化 MLOps 工作流程
-- 💡 愛好：健身與看球賽!!
+I’m **GuaGua**, aka Michael Lu — a passionate learner in **Machine Learning**, **MLOps**, and **Programming**.  
+I enjoy exploring large language models, data science, and automation solutions. I also love embracing challenges in everyday life.
 
 ---
 
-## 🏆 精選專案
-- **[LLM-Finetuning](https://github.com/MichaelLu0220/pix2pix)**  
-  一個用於微調大型語言模型的專案，探索高效轉役羅馬數字方法。  
+## 🔍 About Me
+- 🎓 Focused on Machine Learning, Data Science, and MLOps  
+- 🛠️ Skilled with: Python, PyTorch, MLflow, SQL  
+- 🌟 Currently working on:
+  - Fine-tuning Large Language Models (LLMs)
+  - Researching Text-to-SQL applications
+  - Optimizing MLOps workflows
+- 💡 Hobbies: Hitting the gym & watching sports!
+
+---
+
+## 🏆 Featured Projects
+- **[LLM-Finetuning](https://github.com/MichaelLu0220/yolov5)**  
+  A YOLOv5-based method for identifying the location of colorectal polyps.
   🛠️ *Tech*: Python, PyTorch, Hugging Face
 
 - **[APP Solutions](https://github.com/MichaelLu0220/English_List)**  
-  我的訓練單字小程式。  
+  A small vocabulary training app I developed.  
   🛠️ *Tech*: Python, C++
 
 ---
 
-## 📊 我的 GitHub 數據
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelLu0220&show_icons=true&theme=radical)
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelLu0220&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLu0220&layout=compact&theme=radical)
 
 ---
 
-## 📫 聯繫我
-- 🌐 Website: [https://michaellu0220.github.io](https://michaellu0220.github.io/)
+## 📫 Contact Me
+- 🌐 Website: [https://michaellu0220.github.io](https://michaellu0220.github.io)
 
-💬 歡迎一起討論機器學習、MLOps 或任何有趣的技術話題！
+💬 Let’s connect and talk about Machine Learning, MLOps, or any cool tech topics!
