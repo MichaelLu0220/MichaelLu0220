@@ -1,6 +1,7 @@
 <p align="center">
   <a href="README.md">English</a> | <a href="README.zh-TW.md">繁體中文</a>
 </p>
+
 ![Michael's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelLu0220)
 
 # 👋 Welcome to My GitHub!
@@ -33,8 +34,10 @@ I enjoy exploring large language models, data science, and automation solutions.
 ---
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelLu0220&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLu0220&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelLu0220&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLu0220&layout=compact&theme=radical" height="180"/>
+</div>
 
 ---
 
