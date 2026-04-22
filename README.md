@@ -42,7 +42,7 @@ I enjoy exploring large language models, data science, and automation solutions.
 ---
 
 ## 📫 Contact Me
-- 🌐 Website: [https://michaellu0220.github.io](https://michaellu0220.github.io)
-- new Website: [https://newblogpage.vercel.app/](https://newblogpage.vercel.app/)
+- 🌐 Website: [https://guagua-tw.vercel.app/](https://guagua-tw.vercel.app/)
+- old Website: [https://michaellu0220.github.io](https://michaellu0220.github.io)
 
 💬 Let’s connect and talk about Machine Learning, MLOps, or any cool tech topics!
