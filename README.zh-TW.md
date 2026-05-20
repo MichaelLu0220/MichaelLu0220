@@ -36,14 +36,6 @@
 
 ---
 
-## 📊 我的 GitHub 數據
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelLu0220&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLu0220&layout=compact&theme=radical" height="180"/>
-</div>
-
----
-
 ## 📫 聯繫我
 - 🌐 Website: [https://guagua-tw.vercel.app/](https://guagua-tw.vercel.app/)
 - old Website: [https://michaellu0220.github.io](https://michaellu0220.github.io/)
