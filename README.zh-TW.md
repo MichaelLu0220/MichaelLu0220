@@ -2,6 +2,10 @@
   <a href="README.md">English</a> | <a href="README.zh-TW.md">繁體中文</a>
 </p>
 
+<p align="center">
+  <a href="https://guagua-tw.vercel.app/">個人網站</a>
+</p>
+
 ![Michael's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelLu0220)
 
 # 👋 歡迎來到我的 GitHub！
@@ -41,6 +45,7 @@
 ---
 
 ## 📫 聯繫我
-- 🌐 Website: [https://michaellu0220.github.io](https://michaellu0220.github.io/)
+- 🌐 Website: [https://guagua-tw.vercel.app/](https://guagua-tw.vercel.app/)
+- old Website: [https://michaellu0220.github.io](https://michaellu0220.github.io/)
 
 💬 歡迎一起討論機器學習、MLOps 或任何有趣的技術話題！
